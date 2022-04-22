@@ -5,7 +5,7 @@ http://www.templatemo.com/preview/templatemo_450_awesome
 
 body
 	{
- 		background: rgb(47, 79, 79);
+ 		background: rgb(0, 128, 128);
  		color: #050505;
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 300;
@@ -29,7 +29,7 @@ h2
 	}	
 h2 span
 	{
-		color: rgb(173, 255, 47);
+		color: rgb(255, 69, 0);
 		font-weight: bold;
 	}
 /* end h2 */
