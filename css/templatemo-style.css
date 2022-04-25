@@ -135,7 +135,7 @@ header
 	}
 header .fa
 	{
-		color:rgb(173, 255, 47);
+		color:rgb(255, 140, 0);
 	}
 header span
 	{
@@ -145,7 +145,7 @@ header span
 	}
 header a
 	{
-		color: rgb(173, 255, 47);
+		color: rgb(255, 140, 0);
 		font-weight: 600;
 	}
 header .social-icon
@@ -396,12 +396,12 @@ header .social-icon li a
 /* start contact */
 #contact
 	{
-		background: rgb(189, 183, 107);
+		background: rgb(235, 235, 229);
 	}
 #contact .form-control
 	{
 		background: transparent;
-		border: 1px solid 	rgb(70, 31, 3);
+		border: 1px solid 	rgb(255, 140, 0);
 		border-radius: 2px;
 		box-shadow: none;
 		color: rgb(255, 255, 255);
@@ -418,7 +418,7 @@ header .social-icon li a
 	}
 #contact input[type="submit"]
 	{
-		background: rgb(70, 31, 3);
+		background: rgb(255, 140, 0);
 		font-weight: bold;
 		-webkit-transition: all 0.4s ease-in-out;
 		        transition: all 0.4s ease-in-out;
@@ -445,7 +445,7 @@ header .social-icon li a
 	}
 #contact address .fa
 	{
-		border: 1px solid rgb(0, 0, 205);
+		border: 1px solid rgb(255, 140, 0);
 		border-radius: 2px;
 		width: 40px;
 		height: 40px;
@@ -486,9 +486,9 @@ header .social-icon li a
 	}
 .social-icon li a
 	{
-		border: 1px solid rgb(0, 0, 205);
+		border: 1px solid rgb(255, 140, 0);
 		border-radius: 2px;
-		color: rgb(173, 255, 47);
+		color: rgb(12, 11, 11);
 		width: 40px;
 		height: 40px;
 		line-height: 40px;
